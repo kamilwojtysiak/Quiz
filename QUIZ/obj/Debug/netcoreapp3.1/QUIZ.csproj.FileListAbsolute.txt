@@ -1,0 +1,11 @@
+E:\Projekty\QUIZ\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.exe
+E:\Projekty\QUIZ\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.deps.json
+E:\Projekty\QUIZ\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.runtimeconfig.json
+E:\Projekty\QUIZ\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.runtimeconfig.dev.json
+E:\Projekty\QUIZ\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.dll
+E:\Projekty\QUIZ\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.pdb
+E:\Projekty\QUIZ\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.csprojAssemblyReference.cache
+E:\Projekty\QUIZ\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.AssemblyInfoInputs.cache
+E:\Projekty\QUIZ\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.AssemblyInfo.cs
+E:\Projekty\QUIZ\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.dll
+E:\Projekty\QUIZ\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.pdb
