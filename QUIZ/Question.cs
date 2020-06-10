@@ -6,11 +6,10 @@ namespace QUIZ
 {
     public class Question
     {
-        public Answer[] _answers;
-        public string _correctanswer;
+        public Answer[] Answers;
+        public string Correctanswer;
 
         public string Text { get; set; }
-
         public override string ToString()
         {
             return Text;
