@@ -73,7 +73,7 @@ namespace QUIZ
                 }
             }
 
-            Tools.ColorWriteLine($"You got {result}, its {Math.Round((decimal)result / questions.Count * 100)}%", ConsoleColor.Blue);
+            Tools.ColorWriteLine($"You got {result} point, its {Math.Round((decimal)result / questions.Count * 100)}%", ConsoleColor.Blue);
         }
     }
 }
