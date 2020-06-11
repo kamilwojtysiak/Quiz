@@ -12,6 +12,7 @@ namespace QUIZ
             Console.WriteLine(text);
             Console.ResetColor();
         }
+        
         public static void AskingQuestions()
         {
             List<Question> questions = new List<Question>();
